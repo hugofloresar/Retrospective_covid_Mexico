@@ -2,5 +2,7 @@
 
 In this work, we address the problem of determine the effectiveness of NPI's in Mexico. Our modeling is based on a Kermack-McKendrick-type model. We perform a Bayesian inference by periods to assess different quantities of interest along the implementation and relaxation of measures. 
 
+The notebook Inference_march_april.ipynb describe the implementation of the Bayesian inference. The notebook Results_march_april.ipynb describe the implementation to generate the figures.
+
 To run the Monte Carlo, you need to download the t-walk from:
 <https://www.cimat.mx/~jac/twalk/>
